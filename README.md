@@ -11,13 +11,13 @@
 <br />
 <br />
 
-Me chamo Mateus Vargas, sou técnico em informática e desenvolvedor de software, comecei na área de computação em 2018, e desde o primeiro momento me apaixonei pela aŕea de desenvolvimento de sistemas tanto para a web como aplicativos mobile e também pela aŕea de segurança da informação, atualmente estou focado e constantemente estudando e desenvolvendo projetos nas stacks Laravel, NodeJS, ReactJS, ReactNative e VueJS. 👨🏽‍💼. 
+Me chamo Mateus, sou técnico em informática e desenvolvedor de software, comecei na área de computação em 2018,
+atualmente estou focado e constantemente estudando e desenvolvendo projetos nas stacks Laravel, NodeJS, ReactJS, ReactNative e VueJS. 👨🏽‍💼. 
 
 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 💼 Estou cursando técnico em eletrônica no Colégio Técnico Industrial na UFSM;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Envie um e-mail para mateusdevargas03@gmail.com para entrar em contato comigo.
 
