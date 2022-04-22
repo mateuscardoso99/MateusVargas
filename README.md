@@ -4,22 +4,8 @@
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/mateuz_vargaz">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <br />
 <br />
-
-Me chamo Mateus, sou técnico em informática e desenvolvedor de software, comecei na área de computação em 2018,
-atualmente estou focado e constantemente estudando e desenvolvendo projetos nas stacks Laravel, NodeJS, ReactJS, ReactNative e VueJS. 👨🏽‍💼. 
-
-
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-- 📫 Envie um e-mail para mateusdevargas03@gmail.com para entrar em contato comigo.
 
 
 **Linguagens e ferramentas:**
